@@ -4,4 +4,4 @@ dick
 sorry
 githubTest
 testbranch
-iphoner
+iphones
